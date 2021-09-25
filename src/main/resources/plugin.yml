@@ -1,0 +1,6 @@
+name: StarterPlugin
+version: '${project.version}'
+main: me.targeters.starterplugin.StarterPlugin
+api-version: 1.17
+commands:
+  fly:
